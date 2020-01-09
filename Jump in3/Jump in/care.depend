@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1578583116 source:e:\facultate\jump in3\jump in\main.cpp
+	<iostream>
+	<fstream>
+	<graphics.h>
+	<winbgim.h>
+	<windows.h>
+	<mmsystem.h>
+
